@@ -1,10 +1,17 @@
 # develop-a-tool-to-identify-common-vulnerabilities-e.g-sql-injection-xss-in-web-applications
+
 COMPAMY:CODTECH IT SOLUTIONS
+
 NAME:LONEZADA MOHAMMAD NAJEEB UL HAQ 
+
 INTERN ID:CTO8IUE
+
 DOMAIN:EHTHICAL HACKING AND CYBER SECURITY
+
 DURATION:4 WEEKS
+
 MENTOR:NEELA SANTOSH
+
 Description of the Code
 
 
